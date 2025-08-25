@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lolvu\\OneDrive\\source\\github\\llmsecurity\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF209115-D7DE-4D17-9BF0-7660E15D47D6}|LlmMiniApi.csproj|c:\\users\\lolvu\\onedrive\\source\\github\\llmsecurity\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF209115-D7DE-4D17-9BF0-7660E15D47D6}|LlmMiniApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF209115-D7DE-4D17-9BF0-7660E15D47D6}|LlmMiniApi.csproj|c:\\users\\lolvu\\onedrive\\source\\github\\llmsecurity\\backend\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF209115-D7DE-4D17-9BF0-7660E15D47D6}|LlmMiniApi.csproj|solutionrelative:clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF209115-D7DE-4D17-9BF0-7660E15D47D6}|LlmMiniApi.csproj|c:\\users\\lolvu\\onedrive\\source\\github\\llmsecurity\\backend\\detectors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF209115-D7DE-4D17-9BF0-7660E15D47D6}|LlmMiniApi.csproj|solutionrelative:detectors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF209115-D7DE-4D17-9BF0-7660E15D47D6}|LlmMiniApi.csproj|c:\\users\\lolvu\\onedrive\\source\\github\\llmsecurity\\backend\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF209115-D7DE-4D17-9BF0-7660E15D47D6}|LlmMiniApi.csproj|solutionrelative:models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Clients.cs",
+              "DocumentMoniker": "C:\\Users\\lolvu\\OneDrive\\source\\github\\llmsecurity\\backend\\Clients.cs",
+              "RelativeDocumentMoniker": "Clients.cs",
+              "ToolTip": "C:\\Users\\lolvu\\OneDrive\\source\\github\\llmsecurity\\backend\\Clients.cs",
+              "RelativeToolTip": "Clients.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T04:15:17.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Detectors.cs",
+              "DocumentMoniker": "C:\\Users\\lolvu\\OneDrive\\source\\github\\llmsecurity\\backend\\Detectors.cs",
+              "RelativeDocumentMoniker": "Detectors.cs",
+              "ToolTip": "C:\\Users\\lolvu\\OneDrive\\source\\github\\llmsecurity\\backend\\Detectors.cs",
+              "RelativeToolTip": "Detectors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T04:14:36.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\lolvu\\OneDrive\\source\\github\\llmsecurity\\backend\\Models.cs",
+              "RelativeDocumentMoniker": "Models.cs",
+              "ToolTip": "C:\\Users\\lolvu\\OneDrive\\source\\github\\llmsecurity\\backend\\Models.cs",
+              "RelativeToolTip": "Models.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T04:14:36.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lolvu\\OneDrive\\source\\github\\llmsecurity\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lolvu\\OneDrive\\source\\github\\llmsecurity\\backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T04:14:08.947Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

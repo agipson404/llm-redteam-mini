@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "LlmMiniApi": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:57303;http://localhost:57304"
+    }
+  }
+}

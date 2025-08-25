@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "p5VmDoc7YJzRc5J7GO/HLreP0By4ZolrLLdxni6f2wg=",
+  "Source": "LlmMiniApi",
+  "BasePath": "_content/LlmMiniApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

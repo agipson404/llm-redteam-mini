@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LlmMiniApi/1.0.0": {
+        "runtime": {
+          "LlmMiniApi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LlmMiniApi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
