@@ -82,7 +82,7 @@ Frontend at: [http://localhost:5173](http://localhost:5173)
 ---
 
 ### OpenAI Provider
-- Set your API key in UI (⚠️ never commit/show it in public repos).  
+- Set your API key in UI.  
 - Default model: `gpt-4o-mini`  
 - Recommended max tokens: **200–300**  
 
